@@ -1,0 +1,13 @@
+{
+  "name": "flow-stream-player",
+  "version": "1.2.1",
+  "description": "A beautiful, drop-in streaming video player for the web. HLS, MP4, WebM. No build step.",
+  "main": "flowplayer.js",
+  "browser": "flowplayer.js",
+  "unpkg": "flowplayer.js",
+  "jsdelivr": "flowplayer.js",
+  "files": ["flowplayer.js", "README.md"],
+  "keywords": ["video", "player", "hls", "streaming", "video-player", "m3u8"],
+  "license": "MIT",
+  "repository": { "type": "git", "url": "git+https://github.com/YOUR-USERNAME/flow-stream-player.git" }
+}
